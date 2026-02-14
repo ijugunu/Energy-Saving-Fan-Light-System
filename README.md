@@ -63,9 +63,9 @@ This Arduino-based system automatically:
 
 ## 👨‍🏫 Supervisor
 
-Dr. Kumar Abhishek
-Course: Internet of Things
-Department of Computer Science & Engineering
+**Dr. Kumar Abhishek**  
+Course: Internet of Things  
+Department of Computer Science & Engineering  
 National Institute of Technology Patna
 
 ## 📄 License
